@@ -104,7 +104,7 @@
     {
       "label": "Toggle Vicinae",
       "name": "toggleVicinaeSetting",
-	  "title": "Toggle Vicinae",
+      "title": "Toggle Vicinae",
       "description": "Set to true to toggle vicinae on wallpaper selection",
       "type": "checkbox",
       "required": false,
@@ -113,7 +113,7 @@
     {
       "label": "Show Image Details",
       "name": "showImageDetails",
-	  "title": "Show Image Details",
+      "title": "Show Image Details",
       "description": "Set to true to show image dimensions and size in MB.",
       "type": "checkbox",
       "required": false,
@@ -192,11 +192,11 @@
     "dev": "vici develop"
   },
   "dependencies": {
-    "@vicinae/api": "^0.16.2",
+    "@vicinae/api": "^0.17.3",
     "image-size": "^2.0.2",
     "jimp": "^1.6.0"
   },
   "devDependencies": {
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.3"
   }
 }
